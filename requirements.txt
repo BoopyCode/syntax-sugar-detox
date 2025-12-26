@@ -1,0 +1,2 @@
+# No dependencies! Pure Node.js suffering.
+# (Just like the old days)
